@@ -1,0 +1,28 @@
+.container{
+    /* background-color: rgb(249, 187, 187); */
+    width: 300px;
+    height: 200px;
+    border-radius: 4px;
+    box-shadow: rgb(150, 150, 150) 3px 3px;
+    border: 1px;
+
+    
+}
+
+.btn{
+    font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    width: 80px;
+    border: 0;
+    border-radius: 2em;
+    cursor: pointer;
+    display: inline-block;
+    /* line-height: 1; */
+    padding: 10px 10px;
+    margin: auto auto;
+    
+    
+    
+   
+    
+  }
